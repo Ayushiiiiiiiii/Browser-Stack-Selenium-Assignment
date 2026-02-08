@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Trenes y responsabilidad política",
+    "content": "España no puede acostumbrarse a que los trenes no funcionen con normalidad después de la apuesta que se ha hecho como país",
+    "url": "https://elpais.com/opinion/editoriales/",
+    "image_url": "https://imagenes.elpais.com/resizer/v2/UYPRY7N6R5GBLKYCV7NFYZSODI.jpg?auth=052ed94e1db662f6751fa45936fabefd566361d5b63960beebfd5f33b668fa63&width=414&height=233&smart=true",
+    "translated_title": "Trains and political responsibility"
+  },
+  {
+    "id": 2,
+    "title": "El mensaje del PP a las mujeres",
+    "content": "La gestión de un presunto caso de acoso interno desacredita al partido en el ámbito de la protección frente al machismo",
+    "url": "https://elpais.com/opinion/editoriales/",
+    "image_url": "https://imagenes.elpais.com/resizer/v2/YVMJ72LNXNEVLN76J7NQD2TUNQ.jpg?auth=1ff1be79cf4218ec3e56d5d9efd9f9c06f754292e1f820206867be8f498de168&width=414&height=311&smart=true",
+    "translated_title": "The PP's message to women"
+  },
+  {
+    "id": 3,
+    "title": "Cuba ante el abismo energético",
+    "content": "La oferta de diálogo con Estados Unidos lanzada por el presidente Díaz Canel debe traducirse en pasos concretos y urgentes hacia la democracia",
+    "url": "https://elpais.com/opinion/editoriales/",
+    "image_url": "https://imagenes.elpais.com/resizer/v2/NG43DQ64M5HDFA6UGY6EBDBFTI.jpg?auth=fc9bb9c504c6b94339ac50871e66979a70cf5006aa9932aa68bf4e536101fac6&width=414&height=311&smart=true",
+    "translated_title": "Cuba faces the energy abyss"
+  },
+  {
+    "id": 4,
+    "title": "Sánchez irrita a los oligarcas",
+    "content": "El necesario debate sobre los abusos de las grandes tecnológicas es profundo y debe resolverse de la mano del Congreso y de Europa",
+    "url": "https://elpais.com/opinion/editoriales/",
+    "image_url": "https://imagenes.elpais.com/resizer/v2/NQ37TYYPGZPFTOZHQE6UUVMDC4.jpg?auth=29a59135ecccc6e8c33c5423a930379d568bfee74bc252d42b294edd142006f8&width=414&height=311&smart=true",
+    "translated_title": "Sánchez irritates the oligarchs"
+  },
+  {
+    "id": 5,
+    "title": "Armas nucleares sin control",
+    "content": "El fin del último tratado de limitación de armas atómicas entre EE UU y Rusia abre una época de regresión a la incertidumbre nuclear",
+    "url": "https://elpais.com/opinion/editoriales/",
+    "image_url": "https://imagenes.elpais.com/resizer/v2/3KRO3ZDZBRP2PABSG45O3YWSVQ.jpg?auth=09975be7750c8518e39e5208328576c7c15cbf07b79a7788798ff56d15577d8c&width=414&height=311&smart=true",
+    "translated_title": "Uncontrolled nuclear weapons"
+  }
+]
